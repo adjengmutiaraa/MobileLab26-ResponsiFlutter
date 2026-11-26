@@ -8,7 +8,7 @@ Aplikasi cuaca berbasis **Flutter (Dart)** dengan desain **Material Design 3** d
 
 | Home Screen (Cuaca Terkini & Prakiraan) | Search Screen (Cari Kota, Favorit & Riwayat) |
 | :---: | :---: |
-| ![Home Screen](screenshots/home.png) | ![Search Screen](screenshots/search.png) |
+| ![Home Screen](screenshots/HomeScreenJakarta.jpeg) | ![Search Screen](screenshots/SearchBar.jpeg) |
 
 ---
 
